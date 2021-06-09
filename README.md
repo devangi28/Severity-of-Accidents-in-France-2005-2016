@@ -1,2 +1,1 @@
-# Severity-of-Accidents-in-France-2005-2016
-Every year, road accidents cause thousands of deaths. Risk varies widely from customer to customer, and a deep understanding of different risk factors helps predict the likelihood and cost of insurance claims.  Many factors contribute to the frequency and severity of accidents including how, where and under what conditions people drive, as well as what they are driving.  Insurance covers people’s bodily injury or death for which the insured is responsible. GOAL: This project predicts the severity of injury based on various characteristics, users, places and vehicles.
+# Accidents-in-France-from-2005-2016
